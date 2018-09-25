@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Requires terminal emulator that supports unicode and an emoji font.
+# It's like yes but terrible.
+# Kill will Ctrl-C.
+
+while [ true ]
+do
+    echo 👌
+done
